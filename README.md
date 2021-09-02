@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student who wants to be a DEVELOPER</h3>
 <br/>
 
-- 📝 I regularly write articles on [mskim9967.tistory.com](mskim9967.tistory.com)
+- 📝 I regularly write articles on **[mskim9967.tistory.com](https://mskim9967.tistory.com/)**
 
 - 📫 How to reach me **mskim9967@gmail.com**
 
