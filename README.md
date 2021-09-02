@@ -1,7 +1,7 @@
-### Hi there 👋
-
+### 안녕하세요👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmskim9967)](https://hits.seeyoufarm.com)
 <!--
-**mskim9967/mskim9967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=mskim9967&show_icons=true&hide_border=true)](https://github.com/mskim9967)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mskim9967&layout=compact)](https://github.com/mskim9967)
