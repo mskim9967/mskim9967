@@ -8,7 +8,7 @@
 
 - 🎓 I am an undergraduate in **Computer Science Engineering, Chung-Ang University**. (Mar 2018 ~ )
 
-- 🏕️ I'm serving as a **Computer Technician(정보체계관리병) in the ROK Air Force**. (Mar 2020 ~ Dec 2021) 
+- 🏕️ I'm serving as a **Computer Technician(정보체계운용병) in the ROK Air Force**. (Mar 2020 ~ Dec 2021) 
 
 
 <br/>
