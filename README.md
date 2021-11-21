@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=BCFFF5&section=header&text=Hi%20👋,%20I'm%20MS&fontSize=50)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=BCFFF5&section=header&text=Hi%20👋,%20I'm%20MS&fontSize=50)
 
 <h3 align="center">A passionate student who wants to be a DEVELOPER</h3>
 
@@ -14,13 +13,13 @@
 - 🏕️ I was served as a **Computer Technician(정보체계운용병) in the ROK Air Force**. (Mar 2020 ~ Dec 2021)
 
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmskim9967)](https://hits.seeyoufarm.com)
 
-<br/><br/><br/>
+<br/><br/>
 
 
 <h2 align="center">Tech Stack</h3>
@@ -74,7 +73,7 @@
 
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <h2 align="center">Github</h3>
 
