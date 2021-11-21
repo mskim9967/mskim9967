@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=BCFFF5&section=header&text=Hi%20👋,%20I'm%20MS&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&height=170&color=BCFFF5&section=header&text=Hi%20👋,%20I'm%20MS&fontSize=50)
 
 <h3 align="center">A passionate student who wants to be a DEVELOPER</h3>
 
