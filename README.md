@@ -54,7 +54,7 @@
     <tr>
         <th width="150" align="center">Term</th>
 		<th width="200" align="center">Competition</th>
-        <th width="150" align="center">Rank</th>
+        <th width="200" align="center">Rank</th>
 		<th width="150" align="center">Host/Organizers</th>
 		<th width="150" align="center">Role</th>
     </tr> 
