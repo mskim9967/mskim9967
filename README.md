@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **mskim9967@gmail.com**
 
-- 🎓 I am an undergraduate in [**Computer Science Engineering, Chung-Ang University**.](https://cse.cau.ac.kr/main.php) (Mar. 2018 ~ )
+- 🎓 I am an undergraduate in [**Computer Science Engineering, Chung-Ang University**](https://cse.cau.ac.kr/main.php) (Mar. 2018 ~ )
 
-- 🧑‍💻 Now I'm studying  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB), ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+- 🧑‍💻 Now I'm studying on ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB), ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 
 <br/>
 
