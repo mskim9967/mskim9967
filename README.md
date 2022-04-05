@@ -10,7 +10,7 @@
 
 - 🎓 I am an undergraduate in [**Computer Science Engineering, Chung-Ang University**](https://cse.cau.ac.kr/main.php) (Mar. 2018 ~ )
 
-- 🧑‍💻 Now I'm studying on ![React Native](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+- 🧑‍💻 Now I'm studying on ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<h2 align="center">📃 Work Experiences</h3>
+<h2 align="center">📃 Experiences</h3>
 
 <table>
 <thead>
@@ -37,10 +37,15 @@
 		<td align="center"><a href="https://rokaf.airforce.mil.kr/airforce/index.do">ROK Air Force<br>대한민국 공군</a></td>
         <td align="center">Computer Technician<br>정보체계운용/관리병</td>
     </tr>
-	<tr>
+    <tr> 
         <td align="center">Dec. 2021 ~ Jan. 2022<br><i>[2m]</i></td>
 		<td align="center"><a href="https://www.gfk.com/ko/home">Gfk Korea</a><br>(Short Term Worker)</td>
         <td align="center">Office Automation, Raw Data Processing<br>업무 자동화, 데이터 전처리</td>
+    </tr>
+	<tr> 
+        <td align="center">Jan. 2022 ~ Feb. 2022<br><i>[2m]</i></td>
+		<td align="center"><a href="https://www.gfk.com/ko/home">삼성전자 DX부문</td>
+        <td align="center">'22년 동계 대학생 S/W 알고리즘 역량강화 특강 수료</td>
     </tr>
 </tbody>
 </table>
@@ -86,12 +91,12 @@
 <h4>Language</h4>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <h4>Backend</h4>
 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
