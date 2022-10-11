@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate student who wants to be a DEVELOPER</h3>
 
-<br/> 
+<br/>
 
 - 📝 I regularly write articles on **[mskim9967.tistory.com](https://mskim9967.tistory.com/)**
 
@@ -42,10 +42,25 @@
 		<td align="center"><a href="https://www.gfk.com/ko/home">Gfk Korea</a><br>(Short Term Worker)</td>
         <td align="center">Office Automation, Raw Data Processing<br>업무 자동화, 데이터 전처리</td>
     </tr>
-	<tr> 
+	  <tr> 
         <td align="center">Jan. 2022 ~ Feb. 2022<br><i>[2m]</i></td>
 		<td align="center"><a href="https://www.gfk.com/ko/home">삼성전자 DX부문</td>
         <td align="center">'22년 동계 대학생 S/W 알고리즘 역량강화 특강 수료</td>
+    </tr>
+    <tr> 
+      <td align="center">Mar. 2022 ~ Aug. 2022<br><i>[6m]</i></td>
+		  <td align="center"><a href="https://www.makeus.in/umc">University MakeUs Challenge 3기</td>
+      <td align="center"><a href="https://atom-technician-7aa.notion.site/ARTISTACK-ae9600707aff4304872610760b0e3411">Artistack, 음악 협업 플랫폼</a> <br> Backend Developer </td>
+    </tr>
+    <tr> 
+      <td align="center">May. 2022 ~ Jul. 2022<br><i>[3m]</i></td>
+		  <td align="center"><a href="https://www.makeus.in/cmc">Central MakeUs Challenge 10기</td>
+      <td align="center"><a href="https://play.google.com/store/apps/details?id=com.finpo.app&hl=ko">Finpo, 나만의 청년정책 알림 서비스</a> <br> Backend Developer </td>
+    </tr>
+    <tr> 
+      <td align="center">Sep. 2022 ~ Aug. 2023<br><i>[1y]</i></td>
+		  <td align="center"><a href="https://gdsc-cau.github.io/about/">Google Developer Student Clubs <br>CAU 2기</td>
+      <td align="center">Core Member</td>
     </tr>
 </tbody>
 </table>
@@ -82,7 +97,6 @@
     </tr>
 </tbody>
 </table>
-
 
 <br/><br/>
 
