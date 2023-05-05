@@ -4,7 +4,8 @@
 
 
 ## Education
--  Chung-Ang Univ. / [B.S. in Computer Science Engineering](https://cse.cau.ac.kr/main.php) / '18.03 ~
+<!-- -  Chung-Ang Univ. / [B.S. in Computer Science Engineering](https://cse.cau.ac.kr/main.php) / '18.03 ~ -->
+-  B.S. in Computer Science Engineering / '18.03 ~
 -  삼성전자 / [동계 대학생 S/W 알고리즘 역량강화 특강](https://samsungalgorithm.com) 수료 / '22.01 ~ '22.02
 
 ## Activity
