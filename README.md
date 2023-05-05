@@ -11,7 +11,7 @@
 ## Activity
 - [UMC](https://www.makeus.in/umc) 3기 / [Artistack, 음악 협업 플랫폼](https://atom-technician-7aa.notion.site/ARTISTACK-ae9600707aff4304872610760b0e3411) / '22.03 ~ '22.08
 - [CMC](https://www.makeus.in/cmc) 10기 / [Finpo, 나만의 청년정책 알림 서비스](https://play.google.com/store/apps/details?id=com.finpo.app&hl=ko) / '22.05 ~ '22.07
-- [GDSC, CAU](https://gdsc-cau.github.io/about) 2기 / '22.09 ~ '23.08
+- [GDSC](https://gdsc-cau.github.io/about) 2기 / '22.09 ~ '23.08
 
 ## Career
 - 대한민국 공군 / 정보체계운용병 / '20.03 ~ '21.12
