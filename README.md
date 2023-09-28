@@ -27,6 +27,7 @@
 - [Finpo, 나만의 청년정책 알림 앱서비스](https://github.com/CMC-FINPO/FINPO-Server) / Backend Dev / '22.05 ~ '22.07
 - [SUBWHERE, NFC 기반 지하철 전광판 조회 웹서비스](https://github.com/mskim9967/SUBWHERE) / PM, Admin App Dev / '22.09 ~ '22.12
 - [TMAP 전기차 충전결제 서비스](https://www.tmapmobility.com) / Legacy Backend 전환 작업 참여 (DB, BE Framework) / '23.03 ~ '23.06
+- [EV-TRANS 전산 시스템](https://github.com/EV-TRANS) / FullStack Dev / '23.01 ~ '23.04, '23.08 ~ '23.09   
 
 
 ## Tech
