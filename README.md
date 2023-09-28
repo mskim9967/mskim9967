@@ -11,7 +11,6 @@
 ## Activity
 - [UMC](https://www.makeus.in/umc) 3기 / [Artistack, 음악 협업 플랫폼](https://atom-technician-7aa.notion.site/ARTISTACK-ae9600707aff4304872610760b0e3411) / '22.03 ~ '22.08
 - [CMC](https://www.makeus.in/cmc) 10기 / [Finpo, 나만의 청년정책 알림 서비스](https://play.google.com/store/apps/details?id=com.finpo.app&hl=ko) / '22.05 ~ '22.07
-- [GDSC](https://gdsc-cau.github.io/about) 2기 / '22.09 ~ '23.08
 
 ## Career
 - 대한민국 공군 / 정보체계운용병 / '20.03 ~ '21.12
@@ -28,6 +27,7 @@
 - [Finpo, 나만의 청년정책 알림 앱서비스](https://github.com/CMC-FINPO/FINPO-Server) / Backend Dev / '22.05 ~ '22.07
 - [SUBWHERE, NFC 기반 지하철 전광판 조회 웹서비스](https://github.com/mskim9967/SUBWHERE) / PM, Admin App Dev / '22.09 ~ '22.12
 - [TMAP 전기차 충전결제 서비스](https://www.tmapmobility.com) / Legacy Backend 전환 작업 참여 (DB, BE Framework) / '23.03 ~ '23.06
+
 
 ## Tech
 
